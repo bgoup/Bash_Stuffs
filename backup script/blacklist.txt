@@ -1,0 +1,7 @@
+dynmap
+pagefile.sys
+System\ Volume\ Information
+\$RECYCLE.BIN
+Index
+desktop.ini
+.tmp.drivedownload

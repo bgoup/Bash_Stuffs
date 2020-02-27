@@ -1,0 +1,14 @@
+root@game1.goup.io:/minecraft/
+root@web1.goup.io:/var/www/
+root@web2.goup.io:/var/www/
+root@radicale.goup.io:/radicale/
+root@git1.goup.io:/data/
+root@apt.goup.io:/etc/apt/
+root@apt.goup.io:/etc/apache2/
+root@dns1.goup.io:/root/backups/
+root@voip2.goup.io:/var/backups/xivo/
+root@hv1.goup.io:/etc/libvirt/
+root@news.goup.io:/home/goupkook/.config/autostart/
+root@news.goup.io:/var/spool/cron/crontabs/
+root@media.goup.io:/usr/share/vlc/lua/http/
+root@media.goup.io:/var/spool/cron/crontabs/
